@@ -44,5 +44,5 @@ public class CalculatorTest extends TestCase  {
 		int max = cal.max(2000, -2000);
 		Assert.assertEquals(2000,max);
 
-	
+	}
 }
